@@ -18,4 +18,3 @@ public class FileParserOCC implements FileParser {
         return sortedNamesArray;
     }
 }
-///Users/leyed/Downloads/OCCNames.txt
